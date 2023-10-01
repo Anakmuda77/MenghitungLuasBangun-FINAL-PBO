@@ -4,3 +4,6 @@ Guna Dari Tugas ini adalah sebagai Tugas Semester Mahassiswa pada Mata Kuliah Pe
 Nama    : Johnson Liu
 Kelas   : B
 NIM     : D121211044
+
+  ---Alamat---
+Jalan Kelumutu no 3
